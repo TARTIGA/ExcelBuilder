@@ -1,0 +1,10 @@
+{
+	"0": "Validate exception: validate value must be more than 'min_length'",
+	"1": "Validate exception: validate value must be less than 'max_length'",
+	"2": "Validate exception: validate value must be not null",
+	"3": "Validate exception: validate value must be not date",
+	"4": "Validate exception: validate value must content day",
+	"5": "Validate exception: validate value must content exist page path",
+	"6": "Validate exception: validate value must content exist page title",
+	"7": "Page not found exception: Page with location 'location', not found!"
+}

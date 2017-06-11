@@ -1,0 +1,83 @@
+
+<div class="raspisanie-kursov"></div>
+<div class="raspisanie-kursov"></div>
+<div class="raspisanie-kursov">
+<table>
+<tbody>
+<tr>
+<td id="cnumb1">
+<div class="cnumb">1</div></td>
+<td id="cnumb2">
+<div class="cnumb">2</div></td>
+<td id="cnumb3">
+<div class="cnumb">3</div></td>
+<td id="cnumb4">
+<div class="cnumb">4</div></td>
+<td id="cnumb5">
+<div class="cnumb">5</div></td>
+<td id="cnumb6">
+<div class="cnumb">6</div></td>
+<td id="cnumb7">
+<div class="cnumb">7</div></td>
+</tr>
+<tr>
+<td id="cnumb8">
+<div class="cnumb">8</div></td>
+<td id="cnumb9">
+<div class="cnumb">9</div></td>
+<td id="cnumb10">
+<div class="cnumb">10</div></td>
+<td id="cnumb11">
+<div class="cnumb">11</div></td>
+<td id="cnumb12">
+<div class="cnumb">12</div></td>
+<td id="cnumb13">
+<div class="cnumb">13</div></td>
+<td id="cnumb14">
+<div class="cnumb">14</div></td>
+</tr>
+<tr>
+<td id="cnumb15">
+<div class="cnumb">15</div></td>
+<td id="cnumb16">
+<div class="cnumb">16</div></td>
+<td id="cnumb17">
+<div class="cnumb">17</div></td>
+<td id="cnumb18">
+<div class="cnumb">18</div></td>
+<td id="cnumb19">
+<div class="cnumb">19</div></td>
+<td id="cnumb20">
+<div class="cnumb">20</div></td>
+<td id="cnumb21">
+<div class="cnumb">21</div></td>
+</tr>
+<tr>
+<td id="cnumb22">
+<div class="cnumb">22</div></td>
+<td id="cnumb23">
+<div class="cnumb">23</div></td>
+<td id="cnumb24">
+<div class="cnumb">24</div></td>
+<td id="cnumb25">
+<div class="cnumb">25</div></td>
+<td id="cnumb26">
+<div class="cnumb">26</div></td>
+<td id="cnumb27">
+<div class="cnumb">27</div></td>
+<td id="cnumb28">
+<div class="cnumb">28</div></td>
+</tr>
+<tr>
+<td id="cnumb29">
+<div class="cnumb">29</div></td>
+<td id="cnumb30">
+<div class="cnumb">30</div></td>
+<td id="cnumb31">
+<div class="cnumb">31</div></td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+
+</div>

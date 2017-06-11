@@ -1,0 +1,31 @@
+﻿<div class="raspisanie">
+<table cellpadding="10">
+<tbody>
+<tr>
+<td valign="top"><strong>Ближайшие даты:</strong>
+<span class="maycenter_date_label">$дата</span></td>
+<td valign="top"><strong>Продолжительность обучения:</strong>
+<span class="maycenter_curse_duration_label">$время</span></td>
+<td valign="top"><strong>Стоимость обучения:</strong>
+<span class="maycenter_curse_cost_label">$стоимость</span></td>
+<td valign="top"><a href="#contact_form_pop" class="fancybox-inline"><img src="/wp-content/uploads/2014/knopki/zapis.png" onmouseover="this.src='/wp-content/uploads/2014/knopki/zapis2.png';" onmouseout="this.src='/wp-content/uploads/2014/knopki/zapis.png';" />
+</a>
+<div style="display: none;" class="fancybox-hidden">
+<div id="contact_form_pop">[contact-form-7 id="$id ФОРМЫ"]</div>
+</div></td>
+<td valign="top"><center><a href="#contact_form_pop_2" class="fancybox-inline"><img src="/wp-content/uploads/2014/knopki/oplata.png" onmouseover="this.src='/wp-content/uploads/2014/knopki/oplata2.png';" onmouseout="this.src='/wp-content/uploads/2014/knopki/oplata.png';" />
+</a>
+<div style="display: none;" class="fancybox-hidden">
+								<div id="contact_form_pop_2">
+									<h3  class="maycenter_curse_name_label">$название курса</h3>
+									{EGOPAY_DONATION}
+
+								</div>
+							</div>
+							&nbsp;
+</center></td>
+</tr>
+</tbody>
+</table>
+</div>
+&nbsp;
